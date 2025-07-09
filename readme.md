@@ -11,10 +11,3 @@ A minimal web app to start a WhatsApp conversation with any number — no need t
 ## 🌐 Live Demo
 
 [Try it here](https://whatsapp-chat-starter.vercel.app/)
-
-
-## 🛠 Tech Stack
-
-- HTML
-- CSS
-- JavaScript
