@@ -18,10 +18,6 @@ A minimal web app to start a WhatsApp conversation with any number — no need t
 ├── style.css
 └── script.js
 
-markdown
-Copy
-Edit
-
 ## 🛠 Tech Stack
 
 - HTML
