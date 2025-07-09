@@ -12,11 +12,6 @@ A minimal web app to start a WhatsApp conversation with any number — no need t
 
 [Try it here](https://whatsapp-chat-starter.vercel.app/)
 
-## 📁 Project Structure
-
-├── index.html
-├── style.css
-└── script.js
 
 ## 🛠 Tech Stack
 
